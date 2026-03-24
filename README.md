@@ -1,2 +1,2 @@
 # MERN_demo
-Demo Repsitory To Learn MERN
+Demo Repsitory For GIT
